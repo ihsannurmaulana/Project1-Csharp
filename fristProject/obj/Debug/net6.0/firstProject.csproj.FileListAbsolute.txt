@@ -1,0 +1,15 @@
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\bin\Debug\net6.0\firstProject.exe
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\bin\Debug\net6.0\firstProject.deps.json
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\bin\Debug\net6.0\firstProject.runtimeconfig.json
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\bin\Debug\net6.0\firstProject.dll
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\bin\Debug\net6.0\firstProject.pdb
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\obj\Debug\net6.0\firstProject.csproj.AssemblyReference.cache
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\obj\Debug\net6.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\obj\Debug\net6.0\firstProject.AssemblyInfoInputs.cache
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\obj\Debug\net6.0\firstProject.AssemblyInfo.cs
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\obj\Debug\net6.0\firstProject.csproj.CoreCompileInputs.cache
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\obj\Debug\net6.0\firstProject.dll
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\obj\Debug\net6.0\refint\firstProject.dll
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\obj\Debug\net6.0\firstProject.pdb
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\obj\Debug\net6.0\firstProject.genruntimeconfig.cache
+D:\BelajarNgoding\C#\MCC\Belajar\fristProject\fristProject\obj\Debug\net6.0\ref\firstProject.dll
